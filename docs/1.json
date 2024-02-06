@@ -1,0 +1,40 @@
+{
+    "firstName": "Duke",
+    "lastName": "Java",
+    "age": 18,
+    "streetAddress": "100 Internet Dr",
+    "city": "JavaTown",
+    "state": "JA",
+    "postalCode": "12345",
+    "phoneNumbers": [
+       { "Mobile": "111-111-1111" },
+       { "Home": "222-222-2222" }
+    ]
+}
+
+
+
+{
+    "teamName": "Dream Team",
+    "members": [
+        {
+            "name" : "Aap",
+            "avatar" : "https://avatars.net/754576548656327.webp",
+            "personalPage" : "https;"
+        },
+        {
+            "name" : "Noot"
+        },
+        {
+            "name" : "Mies"
+        },
+        {
+            "name" : "Teun"
+        }
+
+    ],
+    "pages" : [{
+        "home" : "Welkom",
+        "detail" : "Detail van"
+    }]
+}
