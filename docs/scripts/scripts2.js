@@ -27,10 +27,10 @@ function renderMembers(members) {
 }
 
 async function getMembers() {
-    const res = await fetch('./')
-    const teams = await res.json()
-    console.log(teams);
-    return teams.map(({owner}) => owner)
+    const res = await fetch('./team.json')
+    const members = await res.json()
+    console.log(members);
+    return members.map(({owner}) => owner)
 }
 
 
