@@ -28,9 +28,9 @@ function renderMembers(members) {
 
 async function getMembers() {
     const res = await fetch('./team.json')
-    const members = await res.json()
-    console.log(members);
-    return members.map(({owner}) => owner)
+    const team = await res.json()
+    console.log(team);
+    return team.members.map(({owner}) => owner)
 }
 
 
