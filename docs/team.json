@@ -1,0 +1,18 @@
+{
+    "teamName": "Dream Team",
+    "members": [
+        {
+            "name" : "Marten",
+            "personalPage" : "https://mrtnm.github.io/wafs-2324/personal.json"
+        },
+        {
+            "name" : "Member2",
+            "personalPage" : "https://mrtnm.github.io/wafs-2324/personal2.json"
+        }
+
+    ],
+    "pages" : [{
+        "home" : "Welkom",
+        "detail" : "Detail van"
+    }]
+}

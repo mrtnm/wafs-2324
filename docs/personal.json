@@ -1,0 +1,13 @@
+{
+    "firstName": "Marten",
+    "lastName": "Paul",
+    "avatar_url": "https://media.licdn.com/dms/image/D4E03AQEEnP1PRUqzmg/profile-displayphoto-shrink_200_200/0/1686115917985?e=2147483647&v=beta&t=iDYRSfCwhAVCSv1HGf49ITryCXcbpboXyvthOf5kb5I",
+    "age": 38,
+    "streetAddress": "Hiero 1",
+    "city": "Daaro",
+    "postalCode": "1234AB",
+    "phoneNumbers": [
+       { "Mobile": "+31612345678" },
+       { "Home": "+31301234567" }
+    ]
+}
