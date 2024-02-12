@@ -1,0 +1,14 @@
+{
+    "firstName": "Emma",
+    "lastName": "van Steen",
+    "avatar_url": "https://hips.hearstapps.com/hmg-prod/images/emma-stone-attends-the-2022-met-gala-celebrating-in-america-news-photo-1691520914.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=1200:*",
+    "age": 31,
+    "streetAddress": "Omdehoek 99",
+    "city": "Dodegrave",
+    "postalCode": "0000ZZ",
+    "phoneNumbers": [
+       { "Mobile": "+31612345678" },
+       { "Home": "+31201234567" }
+    ],
+    "hobbies" : ["Food", "Films", "Poetry", "Weird people"]
+}

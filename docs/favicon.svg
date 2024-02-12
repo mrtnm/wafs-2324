@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="width=device-width" /><title>https://everythingweb.org/images/favicon.svg</title><link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css" /></head><body id="viewsource" class="highlight" style="tab-size: 4"><pre id="line1"><span></span><span>&lt;<span class="start-tag">svg</span> <span class="attribute-name">xmlns</span>="<a class="attribute-value">http://www.w3.org/2000/svg</a>" <span class="attribute-name">xmlns:xlink</span>="<a class="attribute-value">http://www.w3.org/1999/xlink</a>" <span class="attribute-name">x</span>="<a class="attribute-value">0px</a>" <span class="attribute-name">y</span>="<a class="attribute-value">0px</a>"
+<span id="line2"></span>	 <span class="attribute-name">viewBox</span>="<a class="attribute-value">0 0 32 32</a>"&gt;</span><span>
+<span id="line3"></span></span><span>&lt;<span class="start-tag">style</span> <span class="attribute-name">type</span>="<a class="attribute-value">text/css</a>"&gt;</span><span>
+<span id="line4"></span>	.st0{fill:#000;}
+<span id="line5"></span>	@media (prefers-color-scheme:dark) {
+<span id="line6"></span>		.st0{fill:#fff;}
+<span id="line7"></span>	}
+<span id="line8"></span></span><span>&lt;/<span class="end-tag">style</span>&gt;</span><span>
+<span id="line9"></span></span><span>&lt;<span class="start-tag">path</span> <span class="attribute-name">class</span>="<a class="attribute-value">st0</a>" <span class="attribute-name">d</span>="<a class="attribute-value">M0,2l16,27.7L32,2H0z M8.7,7h14.7L16,19.7L8.7,7z</a>"<span>/</span>&gt;</span><span>
+<span id="line10"></span></span><span>&lt;/<span class="end-tag">svg</span>&gt;</span><span>
+<span id="line11"></span></span></pre></body></html>

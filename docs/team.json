@@ -3,11 +3,19 @@
     "members": [
         {
             "name" : "Marten",
-            "personalPage" : "https://mrtnm.github.io/wafs-2324/personal.json"
+            "personalPage" : "https://preview.zodan.nl/cmd/wafs-2324/docs/data/mrtnm"
         },
         {
-            "name" : "Member2",
-            "personalPage" : "https://mrtnm.github.io/wafs-2324/personal2.json"
+            "name" : "Bas",
+            "personalPage" : "https://preview.zodan.nl/cmd/wafs-2324/docs/data/bas"
+        },
+        {
+            "name" : "Sjors",
+            "personalPage" : "https://preview.zodan.nl/cmd/wafs-2324/docs/data/sjors"
+        },
+        {
+            "name" : "Emma",
+            "personalPage" : "https://preview.zodan.nl/cmd/wafs-2324/docs/data/emma"
         }
 
     ],

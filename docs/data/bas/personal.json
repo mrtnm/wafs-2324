@@ -1,0 +1,14 @@
+{
+    "firstName": "Bas",
+    "lastName": "de Greeuw",
+    "avatar_url": "https://media.licdn.com/dms/image/D4E03AQFzepaTTt-4Gw/profile-displayphoto-shrink_800_800/0/1676907816899?e=2147483647&v=beta&t=gyKY_mlw7gKnGBTk__NcOBaoBuBhUvB6jIYfiFt55qM",
+    "age": 18,
+    "streetAddress": "Ergens 1",
+    "city": "Amsterdam",
+    "postalCode": "0000ZZ",
+    "phoneNumbers": [
+       { "Mobile": "+31612345678" },
+       { "Home": "+31201234567" }
+    ],
+    "hobbies" : ["Food", "Music", "Art", "Gaming","Anime"]
+}

@@ -1,0 +1,14 @@
+{
+    "firstName": "Sjors",
+    "lastName": "Kloenie",
+    "avatar_url": "https://i.pinimg.com/736x/ff/4b/a6/ff4ba66bb390f81489f102f9a8e61cab.jpg",
+    "age": 56,
+    "streetAddress": "Whoop Whoop 13",
+    "city": "Ergenshuizen",
+    "postalCode": "0000ZZ",
+    "phoneNumbers": [
+       { "Mobile": "+31612345678" },
+       { "Home": "+31201234567" }
+    ],
+    "hobbies" : ["Films", "Music", "Art", "Gaming", "Bret Pid"]
+}
